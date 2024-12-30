@@ -1,0 +1,9 @@
+[project]
+name = "timelocked-wallet"
+requirements = []
+
+[contracts.smart-claimant]
+path = "contracts/smart-claimant.clar"
+
+[contracts.timelocked-wallet]
+path = "contracts/timelocked-wallet.clar"
